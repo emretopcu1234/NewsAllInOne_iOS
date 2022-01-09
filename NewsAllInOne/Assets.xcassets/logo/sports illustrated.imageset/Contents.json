@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "NicePng_sports-logo-png_9273647.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "NicePng_sports-logo-png_9273647@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "NicePng_sports-logo-png_9273647@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
